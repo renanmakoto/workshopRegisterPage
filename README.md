@@ -2,7 +2,7 @@
 
 <p align="center">A landing page I developed for my girlfriend as she is an EFL teacher, and also for practising my skills.</p>
 
-<a align="center">https://renanmakoto.github.io/workshopRegisterPage/</a>
+<p align="center">https://renanmakoto.github.io/workshopRegisterPage/</p>
 
 <div align="center">
 
