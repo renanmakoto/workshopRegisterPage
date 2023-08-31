@@ -1,6 +1,6 @@
 <h1 align="center">workshopRegisterPage</h1>
 
-<p align="center">A landing page I developed for my girlfriend as she is an EFL teacher, and also for practising my skills.</p>
+<p align="center">A landing page I developed for an EFL teacher.</p>
 
 <p align="center">https://renanmakoto.github.io/workshopRegisterPage/</p>
 
